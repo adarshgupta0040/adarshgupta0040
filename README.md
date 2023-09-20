@@ -3,8 +3,6 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-<p align="left"> <a href="https://twitter.com/adarshgupta0040" target="blank"><img src="https://img.shields.io/twitter/follow/adarshgupta0040?logo=twitter&style=for-the-badge" alt="adarshgupta0040" /></a> </p>
-
 ### About Me
 
 - 🔭 I’m currently working on [Users Notes Application](https://github.com/adarshgupta0040/Users-Notes-Application)
