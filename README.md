@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
 <h1 align="center">Hi 👋, I'm Adarsh Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
