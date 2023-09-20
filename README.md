@@ -6,7 +6,7 @@
 ### About Me
 
 - 🔭 I’m currently working on [Users Notes Application](https://github.com/adarshgupta0040/Users-Notes-Application)
-- 🌱 I’m currently learning **React Native and NodeJs**
+- 🌱 I’m currently learning **React and NodeJs**
 - 👨‍💻 All of my projects are available at [https://athenasquare.org/Adarsh03](https://athenasquare.org/Adarsh03)
 - 💬 Ask me about **Python, Java, SpringBoot, Angular, MySQL, NodeJS, React**
 - 📫 How to reach me **adarshgupta0040@gmail.com**
