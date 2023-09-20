@@ -17,11 +17,11 @@
 
 <p align="left">
   <a href="https://twitter.com/adarshgupta0040" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="adarshgupta0040" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/11808654" target="blank"><img align="center" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/12/1dZR-6mVLWHoQr7vBIU2-kw.png" alt="11808654" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/adarsh-gupta-537ba718a" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="adarsh-gupta-537ba718a" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/11808654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11808654" height="30" width="40" /></a>
-  <a href="https://instagram.com/mr.perfect_official__" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="mr.perfect_official__" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/a_1901640100018" target="blank"><img align="center" src="https://cdn.dribbble.com/users/1771471/screenshots/14108349/media/0d446f06dbc6f204fdcb138902df65c9.gif" alt="a_1901640100018" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/adarshg04" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/98157751/7e85df00-ec67-11e9-98d3-684a4b66ae37" alt="adarshg04" height="30" width="40" /></a>
+  <a href="https://instagram.com/mr.perfect_official__" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="mr.perfect_official__" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/adarshgupta0040" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210511160813/g4g.jpg" alt="adarshgupta0040" height="30" width="40" /></a>
 </p>
 
