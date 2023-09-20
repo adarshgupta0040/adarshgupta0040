@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 <h1 align="center">Hi 👋, I'm Adarsh Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
